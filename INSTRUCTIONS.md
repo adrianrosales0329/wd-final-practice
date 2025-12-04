@@ -7,14 +7,14 @@
 
 ## General Instructions
 
-You will complete this exam by **building a small multi-page website** on your computer.
+You will complete this practice exam by **building a small multi-page website** on your computer.
 
 - You must create **three HTML pages**, **one shared CSS file**, and **one JS file**.
-- You may **not** use any frameworks (no Bootstrap, React, etc.). Plain HTML, CSS, and JavaScript only.
+- You may **not** use any frameworks (no Tailwind, React, etc.). Plain HTML, CSS, and JavaScript only.
 - Do **not** copy/paste existing code you’ve written before. Write your own code during the exam.
 - Save your work frequently.
 
-When you are finished, you will submit **all files** (HTML, CSS, JS) as instructed by your instructor.
+When you are finished, you will submit **all files** (HTML, CSS, JS) by committing the files, syncing the repo, and submitting the repo URL.
 
 ---
 
